@@ -1,10 +1,8 @@
+ 💫 About Me
 
+📌 I am a **Computer Science student** with a strong curiosity for **technology and innovation**.  
 
->  **About Me**  
->  
-> I am a Computer Science student with a strong curiosity for technology and innovation.  
->  
-> I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
+📌 I enjoy **exploring new ideas**, **learning continuously**, and **challenging myself** to think **logically and creatively**.
 
 ---
 
