@@ -9,13 +9,14 @@ I am a Computer Science student with a strong curiosity for technology and innov
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7F7CFF&icon_color=38BDF8&text_color=E5E7EB&border_radius=20)
+![Stats](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=tokyonight&border_radius=20)
 
-![Streak](https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20&fire=38BDF8&ring=7F7CFF)
+![Streak](https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGalaxy&layout=donut&theme=tokyonight&bg_color=0D1117&title_color=7F7CFF&border_radius=20)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGalaxy&layout=donut&theme=tokyonight&border_radius=20)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=BrainGalaxy&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
