@@ -18,13 +18,12 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 # 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BrainGalaxy&theme=react&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=tokyonight"
+    width="900"
+  />
 </p>
-
-
-
 
 ---
 
