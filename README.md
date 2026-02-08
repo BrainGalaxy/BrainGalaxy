@@ -1,18 +1,16 @@
-<h2 align="center">💫 About Me</h2>
-
 <p align="center">
-  <em>
-    I am a Computer Science student with a strong curiosity for technology and innovation.
-  </em>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=7F7CFF&center=true&vCenter=true&width=900&lines=💫+About+Me" 
+  />
 </p>
 
 <p align="center">
-  <em>
-    I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
-  </em>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=BrainGalaxy&repo=BrainGalaxy&theme=tokyonight&border_radius=20&hide_border=false" 
+    alt="About Me Card" 
+  />
 </p>
 
-<p align="center">✨ ✦ ✨</p>
 
 ---
 
