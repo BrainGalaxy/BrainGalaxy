@@ -1,12 +1,15 @@
----
-
-### 💫 About Me
-
-> I am a Computer Science student with a strong curiosity for technology and innovation.  
->  
-> I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
-
----
+<table align="center">
+  <tr>
+    <td align="center" style="border-radius:20px; padding:20px; background:#0D1117;">
+      <h3>💫 About Me</h3>
+      <p>
+        I am a Computer Science student with a strong curiosity for technology and innovation.
+        <br/><br/>
+        I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
