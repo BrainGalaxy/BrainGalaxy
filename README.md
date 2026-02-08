@@ -1,15 +1,12 @@
-<table align="center">
-  <tr>
-    <td align="center" style="padding:20px; border-radius:16px;">
-      <h3>💫 About Me</h3>
-      <p>
-        I am a Computer Science student with a strong curiosity for technology and innovation.
-        <br/><br/>
-        I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+### 💫 About Me
+
+> I am a Computer Science student with a strong curiosity for technology and innovation.  
+>  
+> I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
+
+---
 
 ---
 
