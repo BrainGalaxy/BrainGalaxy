@@ -21,7 +21,7 @@
 
 <p align="center">
   <img
-    ![BrainGalaxy Terminal](https://github-stats-terminal-style.vercel.app/api?username=BrainGalaxy&theme=dark)
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=ambient_gradient)
    alt="GitHub Stats"
   />
 </p>
