@@ -9,11 +9,11 @@ I am a Computer Science student with a strong curiosity for technology and innov
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=tokyonight&border_radius=20)
+(https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=tokyonight&border_radius=20)
 
 ![Streak](https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGalaxy&layout=donut&theme=tokyonight&border_radius=20)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGalaxy&layout=donut&theme=tokyonight&border_radius=20)
 
 ---
 
