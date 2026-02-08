@@ -21,7 +21,7 @@
 
 <p align="center">
   <img
-  ![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=zenburn)
+![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=zenburn)
    alt="GitHub Stats"
   />
 </p>
