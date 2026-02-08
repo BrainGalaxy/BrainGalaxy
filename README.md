@@ -20,8 +20,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img
-    <img src="https://github-readme-stats.vercel.app/api?username=BrainGalaxy&hide_title=true&theme=react&v=2" />
-
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=tokyonight"
     width="900"
   />
 </p>
