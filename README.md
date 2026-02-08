@@ -19,11 +19,23 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 # 📊 GitHub Stats:
 
-![Streak](https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20)
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20" 
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=BrainGalaxy&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=BrainGalaxy&icon=2&color=0" 
+    alt="Profile Views"
+  />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  🌌 Code Beyond Imagination
 
