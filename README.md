@@ -21,13 +21,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=tokyonight&hide_title=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20"
     alt="GitHub Streak"
   />
