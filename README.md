@@ -26,13 +26,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  🌌 Code Beyond Imagination
