@@ -21,11 +21,11 @@
 
 <p align="center">
   <img
-![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=zenburn)
-   alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=tokyonight"
+    width="900"
   />
 </p>
- 
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  🌌 Code Beyond Imagination
