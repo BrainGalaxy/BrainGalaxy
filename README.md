@@ -1,16 +1,15 @@
-<table align="center">
-  <tr>
-    <td align="center" style="border-radius:20px; padding:20px; background:#0D1117;">
-      <h3>💫 About Me</h3>
-      <p>
-        I am a Computer Science student with a strong curiosity for technology and innovation.
-        <br/><br/>
-        I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:7F7CFF,100:38BDF8&text=💫%20About%20Me&fontColor=FFFFFF&fontSize=22&animation=fadeIn" />
+</p>
 
+<p align="center">
+  <sub>
+    I am a Computer Science student with a strong curiosity for technology and innovation.
+    <br/><br/>
+    I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
+  </sub>
+</p>
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhi._.shek_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-94026a380/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/s5017151012141) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCYu17OtmKveNjkwT2dZs8mA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.in9900@gmail.com) 
 
