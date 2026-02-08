@@ -22,10 +22,10 @@
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=tokyonight"
-  
+   alt="GitHub Stats"
   />
 </p>
-
+ 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  🌌 Code Beyond Imagination
