@@ -1,16 +1,15 @@
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=false&hide=contribs,issues,prs&custom_title=💫%20About%20Me&bg_color=0D1117&title_color=7F7CFF&text_color=E5E7EB&border_radius=20" 
-  />
-</p>
-
-<p align="center">
-  <em>
-    I am a Computer Science student with a strong curiosity for technology and innovation.
-    <br/><br/>
-    I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
-  </em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding:20px; border-radius:16px;">
+      <h3>💫 About Me</h3>
+      <p>
+        I am a Computer Science student with a strong curiosity for technology and innovation.
+        <br/><br/>
+        I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
