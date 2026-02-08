@@ -21,7 +21,7 @@
 
 <p align="center">
   <img
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=ambient_gradient)
+  ![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=zenburn)
    alt="GitHub Stats"
   />
 </p>
