@@ -8,9 +8,12 @@ I am a Computer Science student with a strong curiosity for technology and innov
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BrainGalaxy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGalaxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7F7CFF&icon_color=38BDF8&text_color=E5E7EB&border_radius=20)
+
+![Streak](https://streak-stats.demolab.com?user=BrainGalaxy&theme=tokyonight&border_radius=20&fire=38BDF8&ring=7F7CFF)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrainGalaxy&layout=donut&theme=tokyonight&bg_color=0D1117&title_color=7F7CFF&border_radius=20)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrainGalaxy&icon=2&color=0)](https://visitcount.itsvg.in)
