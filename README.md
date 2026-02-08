@@ -21,10 +21,10 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrainGalaxy&theme=zenburn"
-    alt="GitHub Profile Summary"
+    src="https://github-readme-stats.vercel.app/api?username=BrainGalaxy&show_icons=true&hide_title=true&hide_rank=true&theme=react&hide_border=true"
   />
 </p>
+
 
 
 ---
