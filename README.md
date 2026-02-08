@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student od computer scince<br>And i know python ,c and some basic of css,html and javascript <br>and laerning new things<br>
+I am a Computer Science student with a strong curiosity for technology and innovation. I enjoy exploring new ideas, learning continuously, and challenging myself to think logically and creatively.
 
 
 ## 🌐 Socials:
